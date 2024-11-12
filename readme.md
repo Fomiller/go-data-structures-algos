@@ -1,7 +1,5 @@
-the quick brown fox jumped over the lazy dog
-the quick brown fox jumped over the lazy dog
+# Golang Data structures and algorithms
 
-the quick brown fox jumped over the lazy dog
-the quick brown fox jumped over the lazy dog
-the quick brown fox jumped over the lazy dog
+`go test`
+
 
